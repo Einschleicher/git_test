@@ -1,1 +1,4 @@
 GM Germany!
+
+Lets try the new default text editor!
+Hallo?
